@@ -1,0 +1,9 @@
+
+qpython:S116"SRename this field "cell_Height" to match the regular expression ^[_a-z][_a-z0-9]*$.(˜€ñä8²žþß™.
+ipython:S107="LMethod "draw_text" has 8 parameters, which is greater than the 7 authorized.(¸ëìV8²žþß™.
+rpython:S3776F"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¡Š98²žþß™.
+>python:S125Š"Remove this commented out code.(×Ä«¥8²žþß™.
+ypython:S1186˜"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ªð×³8²žþß™.
+ypython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ºùœ®ÿÿÿÿÿ8²žþß™.
+Epython:S1481ø"%Remove the unused local variable "d".(”×«Ô8²žþß™.
+~python:S1186û"YAdd a nested comment explaining why this method is empty, or complete the implementation.(øßŸêþÿÿÿÿ8²žþß™.
