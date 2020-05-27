@@ -1,0 +1,8 @@
+
+wpython:S3981b"XThe length of a collection is always ">=0", so update this test to either "==0" or ">0".(Ò¢É€8Ê—ƒ½¢.
+Epython:S1481‡"%Remove the unused local variable "s".(§øÔç8Ê—ƒ½¢.
+mpython:S101"JRename class "snake" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.( ÁÁ‹úÿÿÿÿ8Ø²ô¾¡.
+=python:S125'"Remove this commented out code.(ŸÙÎÕ8êÖœÆ¢.
+Bpython:S125S"Remove this commented out code.(§‚¸ùÿÿÿÿ8Ê—ƒ½¢.
+Spython:S1481z"/Remove the unused local variable "SnakeHead_P".(Õı˜Çşÿÿÿÿ8Ê—ƒ½¢.
+Fpython:S1481U"'Remove the unused local variable "F_D".(ÉÀÚû8Ê—ƒ½¢.
